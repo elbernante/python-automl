@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-automl/#history
 
+## [2.2.0](https://www.github.com/googleapis/python-automl/compare/v2.1.0...v2.2.0) (2020-12-14)
+
+
+### Features
+
+* add support for common resource paths and expose the client transport ([#93](https://www.github.com/googleapis/python-automl/issues/93)) ([4c910d3](https://www.github.com/googleapis/python-automl/commit/4c910d37dd882d8d4248c1b3716213e9aacbf5df))
+
 ## [2.1.0](https://www.github.com/googleapis/python-automl/compare/v2.0.0...v2.1.0) (2020-10-27)
 
 
